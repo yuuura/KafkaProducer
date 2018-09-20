@@ -1,0 +1,5 @@
+#Property file
+
+ip=localhost
+port=9092
+topic=test
